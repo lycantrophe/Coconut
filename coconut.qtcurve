@@ -4,7 +4,7 @@ BorderlessMax=true
 Grouping=false
 InnerBorder=0
 OpaqueBorder=false
-OuterBorder=0
+OuterBorder=1
 TitleBarPad=1
 
 [Settings]
@@ -17,7 +17,7 @@ bgndImage=none
 bgndOpacity=100
 boldProgress=false
 borderInactiveTab=false
-borderMenuitems=false
+borderMenuitems=true
 borderProgress=true
 borderSbarGroove=true
 borderSelection=false
@@ -115,7 +115,7 @@ selectionAppearance=harsh
 shadeCheckRadio=none
 shadeMenubarOnlyWhenActive=false
 shadeMenubars=wborder
-shadePopupMenu=false
+shadePopupMenu=true
 shadeSliders=selected
 shading=hsl
 sliderAppearance=customgradient4
